@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-springboot-mongo-front
+Projeto angular Front end
+>>>>>>> db526d5544714479c38ce30e662ba83a342b785c
